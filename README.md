@@ -38,4 +38,4 @@ An intuitive tool for creating isometric maps in GameMaker Studio 2, allowing yo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
