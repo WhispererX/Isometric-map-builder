@@ -1,0 +1,1 @@
+1. Add a decent camera with mouse panning and zooming

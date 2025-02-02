@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"TO_DO",
+  "name":"TO_DO",
+  "parent":{
+    "name":"Isometric",
+    "path":"Isometric.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
